@@ -1,2 +1,2 @@
-# Cs_bot
-A helpful bot for the computer science gcse
+# CS_Bot
+A helpful bot for computer science gcse (AQA specification)
